@@ -80,15 +80,15 @@ This workshop showcases how AI can enhance traditional data analysis techniques,
 - [Vipul Kumar](https://github.com/Vipul-Kumar) - Demonstrating the use of LangGraph
 - [oomti](https://github.com/oomti) - Creating this workshop notebook
 
-## Third-Party Libraries
+### Third-Party Libraries
 - [Langchain](https://www.langchain.com/) - Library for creating agentic workflows
 
-## Resources
+### Resources
 - [OpenAI](https://platform.openai.com/) - OpenAI GPT-4 LLM API
 
-## Special Thanks
+### Special Thanks
 - [Alex Grazer] - Hosting and organizing the event
 - [Valerio Ficcadenti] - Co-Hosting and organizing the event
 
-## Sponsors
+### Sponsors
 - [LSBU](https://www.lsbu.ac.uk/) - For providing the venue for our workshop
