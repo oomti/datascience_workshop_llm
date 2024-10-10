@@ -73,3 +73,22 @@ By the end of this workshop, participants will have gained hands-on experience i
 - Leveraging natural language interfaces for data exploration
 
 This workshop showcases how AI can enhance traditional data analysis techniques, providing a powerful toolset for deriving insights from complex datasets.
+
+## Credits and Acknowledgments
+
+### Contributors
+- [Vipul Kumar](https://github.com/Vipul-Kumar) - Demonstrating the use of LangGraph
+- [oomti](https://github.com/oomti) - Creating this workshop notebook
+
+## Third-Party Libraries
+- [Langchain](https://www.langchain.com/) - Library for creating agentic workflows
+
+## Resources
+- [OpenAI](https://platform.openai.com/) - OpenAI GPT-4 LLM API
+
+## Special Thanks
+- [Alex Grazer] - Hosting and organizing the event
+- [Valerio Ficcadenti] - Co-Hosting and organizing the event
+
+## Sponsors
+- [LSBU](https://www.lsbu.ac.uk/) - For providing the venue for our workshop
