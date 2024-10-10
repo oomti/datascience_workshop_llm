@@ -9,6 +9,7 @@ This workshop demonstrates how to perform data analysis on the Titanic dataset u
 - Basic understanding of Python
 - Familiarity with data analysis concepts
 - Google Colab account (optional, but recommended for easy setup)
+- OpenAI API Token
 
 ## Setup
 
